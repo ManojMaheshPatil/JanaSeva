@@ -64,7 +64,7 @@ function HomePage() {
             src={kamakhyaImage}
             alt="kamakhya"
           />
-          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
+          <h3 className="absolute  top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Assam
           </h3>
         </div>
