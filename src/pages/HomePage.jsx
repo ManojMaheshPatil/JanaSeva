@@ -44,9 +44,9 @@ function HomePage() {
             src={tirupatiImage}
             alt="tirupati"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <div className="absolute top-28 left-0 bottom-0 right-0 text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Andhra Pradesh
-          </h3>
+          </div>
         </div>
         <div className="bg-white rounded-[20px] text-center text-black transform transition duration-300 ease-in-out hover:scale-105 h-60 ">
           <img
@@ -54,7 +54,7 @@ function HomePage() {
             src={tawangImage}
             alt="tawang"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Arunachal Pradesh
           </h3>
         </div>
@@ -64,7 +64,7 @@ function HomePage() {
             src={kamakhyaImage}
             alt="kamakhya"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Assam
           </h3>
         </div>
@@ -74,7 +74,7 @@ function HomePage() {
             src={bodhyGayaImage}
             alt="tawang"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Bihar
           </h3>
         </div>
@@ -84,7 +84,7 @@ function HomePage() {
             src={chitrakoteImage}
             alt="chitakote"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Chattisgarh
           </h3>
         </div>
@@ -94,7 +94,7 @@ function HomePage() {
             src={panajiImage}
             alt="panaji"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Goa
           </h3>
         </div>
@@ -104,7 +104,7 @@ function HomePage() {
             src={sabarmatiImage}
             alt="sabarmati"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Gujarat
           </h3>
         </div>
@@ -114,7 +114,7 @@ function HomePage() {
             src={brahmaImage}
             alt="brahma"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Haryana
           </h3>
         </div>
@@ -124,7 +124,7 @@ function HomePage() {
             src={shimlaImage}
             alt="shimla"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Himachal Pradesh
           </h3>
         </div>
@@ -134,7 +134,7 @@ function HomePage() {
             src={dassamImage}
             alt="dassam"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Jharkand
           </h3>
         </div>
@@ -144,7 +144,7 @@ function HomePage() {
             src={mysorePalaceImage}
             alt="mysorepalace"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Karnataka
           </h3>
         </div>
@@ -154,7 +154,7 @@ function HomePage() {
             src={alleppeyImage}
             alt="alleppey"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Kerala
           </h3>
         </div>
@@ -164,7 +164,7 @@ function HomePage() {
             src={khajurahoImage}
             alt="khajuraho"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Madhya Pradesh
           </h3>
         </div>
@@ -174,7 +174,7 @@ function HomePage() {
             src={goiImage}
             alt="goi"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Maharashthra
           </h3>
         </div>
@@ -184,7 +184,7 @@ function HomePage() {
             src={lokatkImage}
             alt="loktak"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Manipur
           </h3>
         </div>
@@ -194,7 +194,7 @@ function HomePage() {
             src={meghalayaImage}
             alt="meghalaya"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Meghalaya
           </h3>
         </div>
@@ -204,7 +204,7 @@ function HomePage() {
             src={durtlangImage}
             alt="durtlang"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Mizoram
           </h3>
         </div>
@@ -214,7 +214,7 @@ function HomePage() {
             src={kisamaImage}
             alt="kisama"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Nagaland
           </h3>
         </div>
@@ -224,7 +224,7 @@ function HomePage() {
             src={puriImage}
             alt="puri"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Odisha
           </h3>
         </div>
@@ -234,7 +234,7 @@ function HomePage() {
             src={goldentempleImage}
             alt="goldentemple"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Punjab
           </h3>
         </div>
@@ -244,7 +244,7 @@ function HomePage() {
             src={hawamahalImage}
             alt="hawamahal"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Rajasthan
           </h3>
         </div>
@@ -254,7 +254,7 @@ function HomePage() {
             src={tsomgoImage}
             alt="tsomgo"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Sikkim
           </h3>
         </div>
@@ -264,7 +264,7 @@ function HomePage() {
             src={marinaImage}
             alt="marina"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Tamil Nadu
           </h3>
         </div>
@@ -274,7 +274,7 @@ function HomePage() {
             src={charminarImage}
             alt="charminar"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Telangana
           </h3>
         </div>
@@ -284,7 +284,7 @@ function HomePage() {
             src={ujjayantaImage}
             alt="ujjayanta"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Tripura
           </h3>
         </div>
@@ -294,7 +294,7 @@ function HomePage() {
             src={tajmahalImage}
             alt="tajmahal"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Uttar Pradesh
           </h3>
         </div>
@@ -304,7 +304,7 @@ function HomePage() {
             src={rishikeshImage}
             alt="rishikesh"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             Uttarakhand
           </h3>
         </div>
@@ -314,7 +314,7 @@ function HomePage() {
             src={victoriaImage}
             alt="victoria"
           />
-          <h3 className="absolute top-0 left-0 bottom-0 right-0 text-white">
+          <h3 className="absolute top-28 left-0 bottom-0 right-0  text-gray-900 text-shadow-white font-serif font-extrabold text-4xl">
             West Bengal
           </h3>
         </div>
