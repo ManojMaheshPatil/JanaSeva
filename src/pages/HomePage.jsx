@@ -37,7 +37,7 @@ function HomePage() {
         <span className="text-green-400"> Every Emergency! </span>
       </p>
 
-      <div className=" relative grid sm:grid-cols-1 lg:grid-cols-3 gap-4 mt-6 h-60 px-3 ">
+      <div className="relative grid sm:grid-cols-1 lg:grid-cols-3 gap-4 mt-6 h-60 px-3">
         <div className="bg-white rounded-[20px] text-center text-black transform transition duration-300 ease-in-out hover:scale-105 h-60">
           <img
             className="w-full rounded-[20px] text-center text-black transform transition duration-300 ease-in-out hover:scale-101 h-60 object-cover"
